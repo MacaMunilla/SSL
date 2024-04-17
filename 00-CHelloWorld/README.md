@@ -1,0 +1,1 @@
+Este trabajo fue creado en VSC con la version 13.2.0 de gcc instalada, que soporta C+11.
